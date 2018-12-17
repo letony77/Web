@@ -1,0 +1,85 @@
+body{
+background-image: url("espece.jpg");
+margin : 0;
+padding : 0;
+}
+/*
+h1{
+text-align: center;
+color : white;
+font-size: 160px;
+font-family: Arial;
+margin-bottom: 0;
+  
+TEST
+}*/
+h2{
+text-align: center;
+color : white;
+font-size: 50px;
+font-family: Arial;
+margin-top: 0;
+}
+h3{
+text-align: center;
+color : white;
+font-size: 25px;
+margin-bottom: 15px;
+}
+h4{
+text-align: center;
+color : white;
+margin-top: 0;
+}
+
+.learn {
+margin-bottom: 0px;
+text-align: center;
+color : white;
+font-size: 30px
+
+}
+
+.focus {
+text-align: center;
+color : white;
+font-size: 20px;
+margin-bottom : 50px;
+}
+
+.trait {
+text-align: center;
+color: white;
+font-size: 30px;
+margin-top: -25px;
+}
+
+.ville {
+text-align: left;
+color: white;
+margin-top: -20px;
+}
+
+.citation {
+ text-align: center;
+ color: white;
+font-size: 15px;
+}
+
+.todo {
+text-align: right;
+color: white;
+margin-top: -15px;
+}
+h5{
+
+text-align: center;
+color : white;
+margin : 0;
+}
+#div_horloge{
+    font-size: 150px;
+    color: white;
+    text-align: center;
+    margin-bottom: 0;
+}
